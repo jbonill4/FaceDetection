@@ -3,7 +3,7 @@ Real-Time face detection Javascript web application that accesses your webcam an
 
 ## Requirements
 - A functioning camera connected to your machine
-- Visual Studio Code
+- [Visual Studio Code](https://code.visualstudio.com/Download)
 - A modern web browser
 
 
